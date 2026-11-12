@@ -24,5 +24,5 @@ Linux `~/.vst3`), then rescan plug-ins in Live. Put it on the audio track your
 microphone comes in on. The getting started guide (PDF) in the download walks
 you through the MIDI routing.
 
-**macOS:** the plugin isn't notarised. If macOS refuses to load it, run
-`xattr -dr com.apple.quarantine ~/Library/Audio/Plug-Ins/VST3/Descant.vst3`.
+**macOS:** the plugin is signed and notarised by Apple, so your DAW loads it
+straight away.
