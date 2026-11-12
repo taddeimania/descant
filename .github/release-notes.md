@@ -3,6 +3,10 @@ microphone, play notes on a keyboard or send chords from Posy, and your words
 go on the synth while up to four harmony voices and a double sing along in
 your own voice.
 
+## New in 0.1.1
+
+- The macOS build is signed and notarised by Apple, so your DAW loads it straight away, with no quarantine command first.
+
 ## What's in 0.1.0
 
 - **Vocoder**: 8 to 40 bands, SAW, SQUARE, SUPER and CHOIR waves, FORMANT,
